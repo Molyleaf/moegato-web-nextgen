@@ -1,0 +1,5 @@
+payload:
+  - 'gemini.google.com'
+  - 'aistudio.google.com'
+  - 'chatgpt.com'
+  - '+.openai.com'
